@@ -1,2 +1,2 @@
 # abac-demo
-Demonstrate ABAC features with PII dataset
+Demonstrate attribute-based access control with PII dataset
